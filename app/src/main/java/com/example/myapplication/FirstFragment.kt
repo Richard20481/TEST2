@@ -20,7 +20,7 @@ class FirstFragment : Fragment() {
     /**
      * Why is this working?
      * This is another push to the respoitory.
-     * Hello Github 09/07/2022
+     * Hello Github 09/07/2022 (this is cool)
      */
     private val binding get() = _binding!!
 
